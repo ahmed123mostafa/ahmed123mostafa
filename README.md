@@ -86,26 +86,12 @@ I love clean code, solid architecture, and turning ideas into real-world apps co
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed123mostafa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed123mostafa&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed123mostafa&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-mostafa-77b476233">
+  <a href="[https://www.linkedin.com/in/ahmed-mostafa-77b476233](https://www.linkedin.com/in/ahmed-mostafa-b82803232/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BIkhUkVA8T5uCkPmpOJHPQw%3D%3D)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:eng.ahmedmostafa2023@gmail.com">
